@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Girish\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.0\support-annotations-24.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="C:\Users\Girish\.AndroidStudio2.3\StockMarketUpdateOne\StockMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.0_cb1c41e62c5aeff7f5cfcf26b395ac8f99e00f9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Girish\.gradle\caches\modules-2\files-2.1\com.yahoofinance-api\YahooFinanceAPI\3.5.0\614af927df86e3e5b925bb14daed8600886908e8\YahooFinanceAPI-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="614af927df86e3e5b925bb14daed8600886908e8">
+        <dex dex="C:\Users\Girish\.AndroidStudio2.3\StockMarketUpdateOne\StockMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\YahooFinanceAPI-3.5.0_28534567ba1be6efc9df8af39acb46b9ae20f292\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Girish\.AndroidStudio2.3\StockMarketUpdateOne\StockMarket\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Girish\.AndroidStudio2.3\StockMarketUpdateOne\StockMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_82a4363994fdcc756edfa986432587502d3f3277\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Girish\.AndroidStudio2.3\StockMarketUpdateOne\StockMarket\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Girish\.AndroidStudio2.3\StockMarketUpdateOne\StockMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_fc3fa9d900588e8c3e32f38341ef7ce9c3896e56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Girish\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.1\369f9aa48a629b4e92557b37326f42dc3de796e4\MPAndroidChart-v3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="369f9aa48a629b4e92557b37326f42dc3de796e4">
+        <dex dex="C:\Users\Girish\.AndroidStudio2.3\StockMarketUpdateOne\StockMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v3.0.1_d7eec7df0e203772727468dfbfbd089d377b9ed3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Girish\.AndroidStudio2.3\StockMarketUpdateOne\StockMarket\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\Users\Girish\.AndroidStudio2.3\StockMarketUpdateOne\StockMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_85c9511086ba2dbc223ce0fb4f1cafec4fdebd55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Girish\.AndroidStudio2.3\StockMarketUpdateOne\StockMarket\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Girish\.AndroidStudio2.3\StockMarketUpdateOne\StockMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_a6179f07d5ad06c8d69645063d88a5c100c023b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Girish\.gradle\caches\modules-2\files-2.1\net.sf.opencsv\opencsv\2.3\c23708cdb9e80a144db433e23344a788a1fd6599\opencsv-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c23708cdb9e80a144db433e23344a788a1fd6599">
+        <dex dex="C:\Users\Girish\.AndroidStudio2.3\StockMarketUpdateOne\StockMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\opencsv-2.3_3696c9569aefde56ef0c5aa31ce849dd59a5adf5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Girish\.AndroidStudio2.3\StockMarketUpdateOne\StockMarket\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Girish\.AndroidStudio2.3\StockMarketUpdateOne\StockMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_a2b499a31d36f5ab9d1ae38eba717c90714c439b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Girish\.AndroidStudio2.3\StockMarketUpdateOne\StockMarket\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Girish\.AndroidStudio2.3\StockMarketUpdateOne\StockMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_74e8e33de117120453610df737050075c561cade\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Girish\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\20.0\89507701249388e1ed5ddcf8c41f4ce1be7831ef\guava-20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="89507701249388e1ed5ddcf8c41f4ce1be7831ef">
+        <dex dex="C:\Users\Girish\.AndroidStudio2.3\StockMarketUpdateOne\StockMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-20.0_a5dcadbadbca39ac95d87214a6d4f291ff6dac66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Girish\.AndroidStudio2.3\StockMarketUpdateOne\StockMarket\app\build\intermediates\exploded-aar\com.jakewharton.timber\timber\4.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="76182d2ede06926e942e5a947a130b915b83a489">
+        <dex dex="C:\Users\Girish\.AndroidStudio2.3\StockMarketUpdateOne\StockMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton.timber-timber-4.4.0_5e765b95bab6b59b277852191d091fc6909b26a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Girish\.AndroidStudio2.3\StockMarketUpdateOne\StockMarket\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Girish\.AndroidStudio2.3\StockMarketUpdateOne\StockMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_681b98717c8987508218437a2950036d8a6b6d3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Girish\.AndroidStudio2.3\StockMarketUpdateOne\StockMarket\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\Girish\.AndroidStudio2.3\StockMarketUpdateOne\StockMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_e33f52888eaf717cf041fb6bfd12afb8f288f20c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Girish\.AndroidStudio2.3\StockMarketUpdateOne\StockMarket\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Girish\.AndroidStudio2.3\StockMarketUpdateOne\StockMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_835bd08df809909e84ab99918638da59bf2d1940\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Girish\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="C:\Users\Girish\.AndroidStudio2.3\StockMarketUpdateOne\StockMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_0799fd22bf06d5fd5e5ddf23c4f00c8d30f0d158\classes.dex" />
+    </item>
+
+</items>
